@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HW2Osoby</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_name">Imię i Nazwisko</string>
+    <string name="task_dateOfBirth">Data urodzenia</string>
+    <string name="task_description">Opis</string>
+    <string name="add_task">Dodaj</string>
+    <string name="default_Name">Imię i Nazwisko</string>
+    <string name="default_DateOfBirth">Data urodzenia</string>
+    <string name="default_Description">Opis</string>
+    <string name="item_selected_msg">Task Info</string>
+    <string name="delete_question">Czy na pewno chcesz usunąć tę osobę?</string>
+    <string name="dialog_confirm">Tak, chcę.</string>
+    <string name="dialog_cancel">Nie, nie chcę.</string>
+    <string name="delete_dialog_tag">Delete dialog tag</string>
+    <string name="delete_cancel_msg">Cancel</string>
+    <string name="retry_msg">Are you sure?</string>
+    <string name="myFileprovider">com.example.hw2osoby.fileprovider</string>
+</resources>
